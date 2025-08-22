@@ -35,7 +35,7 @@ I meticulously cleaned, validated, and structured the raw, heterogeneous data di
 I utilized a suite of SQL's powerful aggregate functions (e.g., AVG, COUNT), grouping capabilities (GROUP BY), and filtering clauses (WHERE) to uncover hidden patterns and trends across numerous key dimensions.
 
 
-I formulated and directly validated critical business hypotheses through the construction of complex, multi-layered SQL queries. This iterative process allowed for rapid testing of assumptions and the extraction of deeper, more nuanced insights into attrition drivers.
+I formulated and directly validated critical business hypotheses through the construction of complex, multi-layered SQL queries. This iterative process allowed for rapid testing of assumptions and the extraction of deeper, more nuanced insights into  market drivers.
 
 <div align="center">
   <img src="https://github.com/David-TheAnalyst/IBM-Employee-Attrition-Analysis-A-SQL-Data-Insight-Project/blob/main/Insight%208%20(2).png" alt="Flowpal Sales Dashboard Additional View" width="500" height="auto">
@@ -44,7 +44,7 @@ I formulated and directly validated critical business hypotheses through the con
 A glimpse of the logic and methodology for the 8nth Insight
 
 
-You can explore the code to understand the precise logic and methodology behind these insights [Here](link).
+You can explore the code to understand the precise logic and methodology behind these insights [Here]([link](https://github.com/David-TheAnalyst/Cryptocurrency-Market-Trend-Sentiment-Analysis/blob/main/Cryptocurrency%20Qweries..sql)).
 
 
 ## **Key Insights:**
@@ -81,18 +81,19 @@ You can explore the code to understand the precise logic and methodology behind 
 
 ## **Skills Demonstrated:**
 
-Data Analysis (SQL): Advanced querying, aggregation, filtering, and data manipulation.
+1. Data Analysis (SQL): Advanced querying, aggregation, filtering, and data manipulation.
 
-Data Storytelling & Interpretation
+2. Data Storytelling & Interpretation
 
-Problem Solving
+3. Problem Solving
 
-Strategic Recommendation
+4. Strategic Recommendation
 
 
 ## **Conclusion:** 
 
-The insights gleaned from this data are not just statistics but a clear call to action
+The findings demonstrate the power of data-driven analysis to uncover market truths and move beyond generic assumptions. The analytical framework developed here serves as a valuable, repeatable tool for making more informed and strategic decisions in the ever-evolving cryptocurrency landscape.
+
 
 <h3 align="left">Connect with me on Socials:</h3>
 <p align="left">
