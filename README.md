@@ -7,7 +7,7 @@ In the ever-volatile cryptocurrency market, investors and traders face a dauntin
 The objective of this project is to provide actionable insights into market trend and sentiment for investors and traders in the cryptocurrency market having analysed the 17500 hourly data points..
 
 
-**Dataset Source:** This analysis was conducted using a simulated Dataset from [Kaggle](i)
+**Dataset Source:** This analysis was conducted using a simulated Dataset from Kaggle.
 
 **Tools Used:** SQL
 
