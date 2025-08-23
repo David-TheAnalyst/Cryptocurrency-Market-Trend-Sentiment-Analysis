@@ -44,7 +44,7 @@ I formulated and directly validated critical business hypotheses through the con
 A glimpse of the logic and methodology for the 3rd Insight
 
 
-You can explore the code to understand the precise logic and methodology behind these insights [Here]([link](https://github.com/David-TheAnalyst/Cryptocurrency-Market-Trend-Sentiment-Analysis/blob/main/Cryptocurrency%20Qweries..sql)).
+You can explore the code to understand the precise logic and methodology behind these insights [Here](https://github.com/David-TheAnalyst/Cryptocurrency-Market-Trend-Sentiment-Analysis/blob/main/Cryptocurrency%20Qweries..sql).
 
 
 ## **Key Insights:**
