@@ -38,10 +38,10 @@ I utilized a suite of SQL's powerful aggregate functions (e.g., AVG, COUNT), gro
 I formulated and directly validated critical business hypotheses through the construction of complex, multi-layered SQL queries. This iterative process allowed for rapid testing of assumptions and the extraction of deeper, more nuanced insights into  market drivers.
 
 <div align="center">
-  <img src="https://github.com/David-TheAnalyst/IBM-Employee-Attrition-Analysis-A-SQL-Data-Insight-Project/blob/main/Insight%208%20(2).png" alt="Flowpal Sales Dashboard Additional View" width="500" height="auto">
+  <img src="https://github.com/David-TheAnalyst/Cryptocurrency-Market-Trend-Sentiment-Analysis/blob/main/Weekend%20qwery.png" alt="Flowpal Sales Dashboard Additional View" width="500" height="auto">
 </div>
 
-A glimpse of the logic and methodology for the 8nth Insight
+A glimpse of the logic and methodology for the 3rd Insight
 
 
 You can explore the code to understand the precise logic and methodology behind these insights [Here]([link](https://github.com/David-TheAnalyst/Cryptocurrency-Market-Trend-Sentiment-Analysis/blob/main/Cryptocurrency%20Qweries..sql)).
@@ -51,7 +51,7 @@ You can explore the code to understand the precise logic and methodology behind 
 
 1. Despite being a market leader, Bitcoin (BTC) has the lowest traded volume among the six cryptocurrencies (Etherium, Dogecoin, Solana, Ripple, Binance Coin) analyzed.
 
-2. Dogecoin dominates weekend trading*: Dutchcoin's trading volume spikes on weekends, indicating a unique market dynamic.
+2. Dogecoin dominates weekend trading: Dogecoin's trading volume spikes on weekends, indicating a unique market dynamic.
 
 3. The 14th hour of the day sees the highest trading volume, suggesting a potential window for traders.
 
@@ -64,7 +64,6 @@ You can explore the code to understand the precise logic and methodology behind 
 7. Average BTC trading volume is 933.52A baseline for understanding market fluctuations.
 
 8. Monday and Tuesday are high-volume days for Bitcoin.
-
 
 
 ## **Recommendation:**
